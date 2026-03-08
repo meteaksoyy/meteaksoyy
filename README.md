@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEwMmo4dmJzanpsbW1yOXBwaXJlaWh4djVmdnV6cmc1MWQ5NXRwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6EDGSznQA5kVCa0DfD/giphy.gif" width="400"/>
-</p>
+<p align="center"><img src="imgs/hello.gif"></p>
 
 <h3 align="center">I work with computers?</h3>
 
