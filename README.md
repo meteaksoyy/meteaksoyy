@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
 
-<p align="center"><img src="imgs/hello.gif"width="700" height="500"/></p>
+<p align="center"><img src="imgs/hello.gif"width="700" height="350"/></p>
 
 <h3 align="center">I work with computers?</h3>
 
