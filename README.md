@@ -15,6 +15,16 @@
 
 <br/>
 
+### My contributions eating snake:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meteaksoyy/meteaksoyy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meteaksoyy/meteaksoyy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/meteaksoyy/meteaksoyy/output/github-snake.svg" />
+</picture>
+
+<br/>
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mete-aksoy)
