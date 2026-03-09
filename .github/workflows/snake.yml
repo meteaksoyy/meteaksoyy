@@ -11,14 +11,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Compute date 3 months ago
-        id: dates
-        run: echo "since=$(date -d '3 months ago' +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          contributions_since: ${{ steps.dates.outputs.since }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
