@@ -13,7 +13,7 @@
 
 <br/>
 
-### My contributions eating snake:
+### NOM NOM:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meteaksoyy/meteaksoyy/output/github-snake-dark.svg" />
