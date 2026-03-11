@@ -9,7 +9,7 @@
 - `whoami` Final-year bachelor's student at TU Delft
 - `pwd` Delft, Netherlands
 - `ps -a` Building cool things
-- `uname -n` Check out [mete.run](https://mete.run)
+- `uname -n` Check out my website [mete.run](https://mete.run)
 
 <br/>
 
