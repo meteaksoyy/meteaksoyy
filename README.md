@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="imgs/header.svg" alt="Mete Aksoy — software engineer, TU Delft graduate" width="100%"/>
+<img src="imgs/header.svg" alt="Mete Aksoy — Software Engineer, TU Delft graduate" width="100%"/>
 
 Building things that are small, fast, and quietly useful. · **[mete.run](https://mete.run)**
 
@@ -8,7 +8,7 @@ Building things that are small, fast, and quietly useful. · **[mete.run](https:
 
 ## ⚡ Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,react,nodejs,postgres,docker,linux,git&theme=dark" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,go,ts,react,nodejs,pytorch,tensorflow,aws,postgres,docker,linux,git&theme=dark&perline=7" alt="tech stack"/>
 
 <br/>
 <br/>
