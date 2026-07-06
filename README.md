@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="imgs/banner.gif" alt="pixel-art night skyline" width="100%"/>
+
 <img src="imgs/header.svg" alt="Mete Aksoy — Software Engineer, TU Delft graduate" width="100%"/>
 
 Building things that are small, fast, and quietly useful. · **[mete.run](https://mete.run)**
