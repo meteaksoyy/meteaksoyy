@@ -15,8 +15,12 @@ Building things that are small, fast, and quietly useful. · **[mete.run](https:
 
 ## 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=meteaksoyy&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=06b6d4&text_color=8b949e&ring_color=a855f7" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteaksoyy&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=8b949e" alt="Top languages" height="165"/>
+<img src="https://streak-stats.demolab.com?user=meteaksoyy&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6366F1&sideLabels=8B949E&dates=8B949E&stroke=8B949E" alt="GitHub streak" height="180"/>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meteaksoyy&hide_border=true&bg_color=00000000&color=8B949E&line=6366F1&point=06B6D4&area=true&area_color=6366F1&hide_title=true" alt="Contribution activity graph" width="92%"/>
 
 <br/>
 <br/>
